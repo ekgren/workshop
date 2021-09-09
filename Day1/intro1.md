@@ -2,14 +2,10 @@
 
 ## Vilka är vi
 
-## Vad är detta
-
 ## Vilka är ni?
 
 # Översikt
 
-- Presentation: [ML Primer](ml_primer.md)
+- Presentation: [ML Primer](RISE ML&NLU Workshop ML Primer.pdf)
 - Paus
-- Google Colab: [Maskininlärningen "hello world": MNIST](Workshop_Primer.ipynb)
-- Paus
-- Presentation: [NLU från Collocation till Word2Vec till Bert](nlu.md)
+- Google Colab: [Maskininlärningen "hello world": MNIST med mera](Workshop_Primer.ipynb)
