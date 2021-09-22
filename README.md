@@ -5,7 +5,7 @@ Detta är material från workshops för Maskininlärning och Språkteknologi.
 
 ## Dag 1
 
-### [Presentation](Day1/RISE ML&NLU Workshop ML Primer.pdf)
+### [Presentation](Day1/rise_ml_presentation.pdf)
 
 Presentation om Maskininlärning i allmänhet, dess premisser, och möjligheter.
 
@@ -16,7 +16,7 @@ samt återkopplar till presentationen.
 
 ## Dag 2
 
-### [Presentation](Day2/RISE ML&NLU Workshop NLU.pdf)
+### [Presentation](Day2/rise_nlu_presentation.pdf)
 
 Presentation om Maskninlärning för språk eller Språkförståelse.
 Vi går igenom hur maskininlärning, och i synnerhet *transformers* kan användas för språkförståelseproblem.
